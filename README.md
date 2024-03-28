@@ -3,3 +3,6 @@
 
 # Newman Terminal Report
 ![Newman Terminal Report](https://github.com/mh-shovon/Postman-Automation-Newman/assets/40742419/defd2897-3f0b-47ec-b04d-5ea1533e83b4)
+
+# Documentation
+https://documenter.getpostman.com/view/20002000/2sA35EaNbQ
